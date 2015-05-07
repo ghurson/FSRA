@@ -89,8 +89,8 @@ class Config {
 		 * **************** */
 
 		// Base stylesheet (compiled SASS)
-        wp_enqueue_style('foundation_overrides', NV_CSS . '/override.css');
         wp_enqueue_style('app', NV_CSS . '/app.css');
+        wp_enqueue_style('foundation_overrides', NV_CSS . '/override.css');
 
 		// Extras
 		wp_enqueue_style('google_fonts', 'http://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic|Playfair+Display:400,400italic');

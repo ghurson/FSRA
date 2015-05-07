@@ -261,10 +261,11 @@ class page_content
 
         endswitch;
 
+        $med_cols = $content_cols - 1;
 
         print "
             $sidebar_html
-            <div id='content' class='small-$content_cols columns $content_center'>
+            <div id='content' class='medium-$med_cols large-$content_cols columns $content_center'>
                 <article class='post_excerpt'>
                     $this->content_blue_stripe
                     $this->content_html

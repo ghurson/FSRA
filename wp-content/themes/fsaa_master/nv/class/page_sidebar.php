@@ -48,7 +48,7 @@ class page_sidebar
     public function return_html()
     {
         return "
-            <div id='sidebar' class='small-3 columns'>
+            <div id='sidebar' class='medium-4 large-3 columns'>
                 <div class='blue_stripe'></div>
                 $this->html
             </div>

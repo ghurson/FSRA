@@ -26,11 +26,11 @@ get_template_part('parts/header', 'content');
 
 		foreach ($slides as $slide):
 			$caption = $slide['caption'];
-			$caption_html = "<div class='small-3 columns'><h3>$caption</h3></div>";
+			$caption_html = "<div class='medium-3 columns'><h3>$caption</h3></div>";
 
 			$image_id = $slide['image'];
 			$image = wp_get_attachment_image( $image_id, 'Home Slideshow' );
-			$image_html = "<div class='small-9 columns'>$image</div>";
+			$image_html = "<div class='medium-9 columns'>$image</div>";
 
 			print "<div class='home_slide small-12 columns'>$caption_html $image_html</div>";
 
@@ -46,15 +46,15 @@ get_template_part('parts/header', 'content');
 </div>
 
 <div id="home_content" class="row collapse">
-	<div id='home_left' class="small-4 columns">
+	<div id='home_left' class="medium-4 columns">
 		<div class='blue_stripe'></div>
 		<?php print the_field("left_field"); ?>
 	</div>
-	<div id='home_middle' class="small-4 columns">
+	<div id='home_middle' class="medium-4 columns">
 		<div class='blue_stripe'></div>
 		<?php print the_field("middle_field"); ?>
 	</div>
-	<div id='home_right' class="small-4 columns">
+	<div id='home_right' class="medium-4 columns">
 		<div class='blue_stripe'></div>
 		<?php print the_field("right_field"); ?>
 	</div>
