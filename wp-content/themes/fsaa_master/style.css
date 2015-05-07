@@ -1,0 +1,32 @@
+/*
+Theme Name: Four Seasons Reef Action Responsive Master
+Author: Gregg Hurson
+Contributors: Melissa Steele
+Description: The base theme for use with your new wordpress website - made responsive.
+Version: 2.0
+Foundation version: 5.4.3
+Requires at least: 3.9
+Tested up to: 4.0
+Stable tag: 0.9.15
+License: GNU General Public License
+License URI: LICENSE
+*/
+
+
+/*
+===================================
+READ ME!!!
+===================================
+This is a required file for all WordPress themes, so you can't just delete it.
+
+USE OLD FASIONED CSS:
+If you don't want to use SASS (or don't know what SASS is) - then you can go ahead
+and just work in good, old-fashioned CSS within this very file.
+
+TO USE SASS/COMPASS:
+The _compass folder is a pre-configured Zurb Foundation Compass project.
+
+Keep in mind that if you DO want to use SASS/Compass, you will still need to install 
+the gems for Compass *and* the Zurb Foundation framework (even if you want to use 
+a compiler like CodeKit). More info here: http://foundation.zurb.com/docs/gem-install.php
+*/
