@@ -30,7 +30,7 @@
           <file leaf-file-name="header-content.php" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/wp-content/themes/fsaa_master/parts/header-content.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-8.5" vertical-offset="17" max-vertical-offset="765">
+                <state vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="765">
                   <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
                   <folding />
                 </state>
@@ -40,9 +40,12 @@
           <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/wp-content/themes/fsaa_master/index.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="1462">
-                  <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-                  <folding />
+                <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="1479">
+                  <caret line="15" column="83" selection-start-line="15" selection-start-column="83" selection-end-line="15" selection-end-column="83" />
+                  <folding>
+                    <marker date="1431288051456" expanded="false" signature="555:625" placeholder="..." />
+                    <marker date="1431288051456" expanded="true" signature="1369:1541" placeholder="..." />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -50,47 +53,75 @@
           <file leaf-file-name="page_content.php" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/wp-content/themes/fsaa_master/nv/class/page_content.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-25.884615" vertical-offset="3866" max-vertical-offset="4794">
-                  <caret line="267" column="73" selection-start-line="267" selection-start-column="73" selection-end-line="267" selection-end-column="73" />
+                <state vertical-scroll-proportion="-4.327273" vertical-offset="2737" max-vertical-offset="5134">
+                  <caret line="175" column="82" selection-start-line="175" selection-start-column="65" selection-end-line="175" selection-end-column="82" />
                   <folding>
-                    <marker date="1430968245669" expanded="true" signature="2718:2868" placeholder="..." />
-                    <marker date="1430968245669" expanded="false" signature="3660:3691" placeholder="..." />
-                    <marker date="1430968245669" expanded="false" signature="3737:3751" placeholder="..." />
-                    <marker date="1430968245669" expanded="true" signature="3795:4515" placeholder="..." />
-                    <marker date="1430968245669" expanded="true" signature="3823:4437" placeholder="{...}" />
-                    <marker date="1430968245669" expanded="true" signature="3847:3916" placeholder="{&quot;zoom&quot;: 14...}" />
-                    <marker date="1430968245669" expanded="true" signature="4122:4171" placeholder="{...}" />
-                    <marker date="1430968245669" expanded="true" signature="4226:4317" placeholder="{&quot;content&quot;: '&lt;p style=\'color: black\'&gt;Four Seasons&lt;br /&gt;Resort Seychelles&lt;/p&gt;'...}" />
-                    <marker date="1430968245669" expanded="true" signature="4384:4428" placeholder="{...}" />
-                    <marker date="1430968245669" expanded="true" signature="6302:6627" placeholder="..." />
-                    <marker date="1430968245669" expanded="true" signature="6382:6603" placeholder="..." />
-                    <marker date="1430968245669" expanded="true" signature="6509:6594" placeholder="..." />
-                    <marker date="1430968245669" expanded="false" signature="6547:6582" placeholder="..." />
-                    <marker date="1430968245669" expanded="true" signature="6689:7082" placeholder="..." />
-                    <marker date="1430968245669" expanded="true" signature="7887:8067" placeholder="..." />
-                    <marker date="1430968245669" expanded="true" signature="7934:8048" placeholder="..." />
+                    <marker date="1431289752867" expanded="true" signature="2788:2938" placeholder="..." />
+                    <marker date="1431289752867" expanded="false" signature="3730:3761" placeholder="..." />
+                    <marker date="1431289752867" expanded="false" signature="3807:3821" placeholder="..." />
+                    <marker date="1431289752867" expanded="true" signature="3865:4585" placeholder="..." />
+                    <marker date="1431289752867" expanded="true" signature="3893:4507" placeholder="{...}" />
+                    <marker date="1431289752867" expanded="true" signature="3917:3986" placeholder="{&quot;zoom&quot;: 14...}" />
+                    <marker date="1431289752867" expanded="true" signature="4192:4241" placeholder="{...}" />
+                    <marker date="1431289752867" expanded="true" signature="4296:4387" placeholder="{&quot;content&quot;: '&lt;p style=\'color: black\'&gt;Four Seasons&lt;br /&gt;Resort Seychelles&lt;/p&gt;'...}" />
+                    <marker date="1431289752867" expanded="true" signature="4454:4498" placeholder="{...}" />
+                    <marker date="1431289752867" expanded="true" signature="6457:6807" placeholder="..." />
+                    <marker date="1431289752867" expanded="true" signature="6562:6783" placeholder="..." />
+                    <marker date="1431289752867" expanded="true" signature="6689:6774" placeholder="..." />
+                    <marker date="1431289752867" expanded="false" signature="6727:6762" placeholder="..." />
+                    <marker date="1431289752867" expanded="true" signature="6869:7262" placeholder="..." />
+                    <marker date="1431289752867" expanded="true" signature="8067:8247" placeholder="..." />
+                    <marker date="1431289752867" expanded="true" signature="8114:8228" placeholder="..." />
+                    <marker date="1431289752867" expanded="true" signature="8450:8630" placeholder="..." />
+                    <marker date="1431289752867" expanded="true" signature="8450:8632" placeholder="..." />
+                    <marker date="1431289752867" expanded="true" signature="8450:8658" placeholder="..." />
+                    <marker date="1431289752867" expanded="true" signature="8497:8611" placeholder="..." />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="page_sidebar.php" pinned="false" current-in-tab="false">
+          <file leaf-file-name="page_sidebar.php" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/wp-content/themes/fsaa_master/nv/class/page_sidebar.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-15.076923" vertical-offset="458" max-vertical-offset="1071">
-                  <caret line="50" column="53" selection-start-line="50" selection-start-column="53" selection-end-line="50" selection-end-column="53" />
+                <state vertical-scroll-proportion="0.40422723" vertical-offset="119" max-vertical-offset="1241">
+                  <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
                   <folding>
-                    <marker date="1430968153796" expanded="true" signature="1193:1288" placeholder="..." />
+                    <marker date="1432073348801" expanded="true" signature="1232:1327" placeholder="..." />
+                    <marker date="1432073348801" expanded="true" signature="1473:1568" placeholder="..." />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="Config.php" pinned="false" current-in-tab="true">
+          <file leaf-file-name="Config.php" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/wp-content/themes/fsaa_master/nv/hooks/Config.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.2476573" vertical-offset="1328" max-vertical-offset="4420">
-                  <caret line="89" column="0" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+                <state vertical-scroll-proportion="0.0" vertical-offset="2076" max-vertical-offset="4420">
+                  <caret line="136" column="66" selection-start-line="136" selection-start-column="66" selection-end-line="136" selection-end-column="66" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="front-page.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/wp-content/themes/fsaa_master/front-page.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0" vertical-offset="186" max-vertical-offset="1173">
+                  <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+                  <folding>
+                    <marker date="1431267709243" expanded="true" signature="975:1012" placeholder="..." />
+                    <marker date="1431267709243" expanded="true" signature="1271:1281" placeholder="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="footer-content.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/wp-content/themes/fsaa_master/parts/footer-content.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="510">
+                  <caret line="4" column="86" selection-start-line="4" selection-start-column="86" selection-end-line="4" selection-end-column="86" />
                   <folding />
                 </state>
               </provider>
@@ -103,8 +134,8 @@
           <file leaf-file-name="rr_style.css" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/wp-content/themes/fsaa_master/assets/css/rr_style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="7534" max-vertical-offset="8160">
-                  <caret line="474" column="1" selection-start-line="474" selection-start-column="1" selection-end-line="474" selection-end-column="1" />
+                <state vertical-scroll-proportion="0.0" vertical-offset="5844" max-vertical-offset="8160">
+                  <caret line="362" column="1" selection-start-line="362" selection-start-column="1" selection-end-line="362" selection-end-column="1" />
                   <folding />
                 </state>
               </provider>
@@ -113,8 +144,54 @@
           <file leaf-file-name="_custom.scss" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/wp-content/themes/fsaa_master/_foundation/scss/_custom.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.8634538" vertical-offset="443" max-vertical-offset="1190">
-                  <caret line="64" column="0" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+                <state vertical-scroll-proportion="0.4704301" vertical-offset="500" max-vertical-offset="1428">
+                  <caret line="119" column="26" selection-start-line="119" selection-start-column="26" selection-end-line="119" selection-end-column="26" />
+                  <folding>
+                    <element signature="e#430#608#0" expanded="false" />
+                    <element signature="e#441#605#0" expanded="false" />
+                    <element signature="e#450#600#0" expanded="false" />
+                    <element signature="e#626#739#0" expanded="false" />
+                    <element signature="e#648#737#0" expanded="false" />
+                    <element signature="e#699#732#0" expanded="false" />
+                    <element signature="e#757#815#0" expanded="false" />
+                    <element signature="e#838#959#0" expanded="false" />
+                    <element signature="e#859#956#0" expanded="false" />
+                    <element signature="e#881#951#0" expanded="false" />
+                    <element signature="e#1055#1204#0" expanded="false" />
+                    <element signature="e#1118#1200#0" expanded="false" />
+                    <element signature="e#1224#1319#0" expanded="false" />
+                    <element signature="e#1276#1314#0" expanded="false" />
+                    <element signature="e#1339#1445#0" expanded="false" />
+                    <element signature="e#1392#1441#0" expanded="false" />
+                    <element signature="e#1463#1502#0" expanded="false" />
+                    <element signature="e#1519#1582#0" expanded="false" />
+                    <element signature="e#1603#1641#0" expanded="false" />
+                    <element signature="e#1756#1794#0" expanded="false" />
+                    <element signature="e#1995#2034#0" expanded="false" />
+                    <element signature="e#2104#2253#0" expanded="false" />
+                    <element signature="e#2167#2249#0" expanded="false" />
+                    <element signature="e#2273#2494#0" expanded="false" />
+                    <element signature="e#2322#2361#0" expanded="false" />
+                    <element signature="e#2382#2459#0" expanded="false" />
+                    <element signature="e#2481#2489#0" expanded="false" />
+                    <element signature="e#2525#2562#0" expanded="false" />
+                    <element signature="e#2587#2678#0" expanded="false" />
+                    <element signature="e#2608#2675#0" expanded="false" />
+                    <element signature="e#2722#3058#0" expanded="false" />
+                    <element signature="e#2740#3055#0" expanded="false" />
+                    <element signature="e#2749#2787#0" expanded="false" />
+                    <element signature="e#2811#3051#0" expanded="false" />
+                    <element signature="e#2910#3045#0" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/wp-content/themes/fsaa_master/layout/footer.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-22.884615" vertical-offset="153" max-vertical-offset="1972">
+                  <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -123,7 +200,7 @@
           <file leaf-file-name="_settings.scss" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/wp-content/themes/fsaa_master/_foundation/scss/_settings.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-11.307693" vertical-offset="23438" max-vertical-offset="24650">
+                <state vertical-scroll-proportion="0.0" vertical-offset="23732" max-vertical-offset="24650">
                   <caret line="1396" column="24" selection-start-line="1396" selection-start-column="24" selection-end-line="1396" selection-end-column="24" />
                   <folding />
                 </state>
@@ -138,7 +215,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/wp-content/themes/fsaa_master/style.css" />
-        <option value="$PROJECT_DIR$/wp-content/themes/fsaa_master/assets/css/rr_style.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/fsaa_master/package.json" />
         <option value="$PROJECT_DIR$/wp-content/themes/fsaa_master/_foundation/bower_components/foundation/scss/foundation/_settings.scss" />
         <option value="$PROJECT_DIR$/wp-content/themes/fsaa_master/assets/css/override.css" />
@@ -150,10 +226,14 @@
         <option value="$PROJECT_DIR$/wp-content/themes/fsaa_master/assets/css/app.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/fsaa_master/_foundation/scss/_settings.scss" />
         <option value="$PROJECT_DIR$/wp-content/themes/fsaa_master/parts/header-content.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/fsaa_master/front-page.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/fsaa_master/nv/class/page_sidebar.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/fsaa_master/nv/class/page_content.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/fsaa_master/nv/hooks/Config.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/fsaa_master/front-page.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/fsaa_master/parts/footer-content.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/fsaa_master/assets/css/rr_style.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/fsaa_master/index.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/fsaa_master/nv/class/page_content.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/fsaa_master/layout/footer.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/fsaa_master/nv/class/page_sidebar.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/fsaa_master/_foundation/scss/_custom.scss" />
       </list>
     </option>
@@ -191,6 +271,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -228,6 +309,92 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="fsaa_master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Four Seasons Reef Action" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Four Seasons Reef Action" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fsaa_master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nv" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Four Seasons Reef Action" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Four Seasons Reef Action" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fsaa_master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nv" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="class" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Four Seasons Reef Action" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Four Seasons Reef Action" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fsaa_master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -300,66 +467,9 @@
               <option name="myItemId" value="wp-content" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fsaa_master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_foundation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Four Seasons Reef Action" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Four Seasons Reef Action" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fsaa_master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_foundation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scss" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Four Seasons Reef Action" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Four Seasons Reef Action" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -373,7 +483,8 @@
     <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
     <property name="LayoutCode.rearrangeEntriesPHP" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="config.php&#9;FILE&#9;file://D:/Vagrant/html/Four Seasons Reef Action/wp-content/themes/fsaa_master/nv/hooks/Config.php&#10;rr_style&#9;FILE&#9;file://D:/Vagrant/html/Four Seasons Reef Action/wp-content/themes/fsaa_master/assets/css/rr_style.css" />
+    <property name="SearchEverywhereHistoryKey" value="footer&#9;FILE&#9;file://D:/Vagrant/html/Four Seasons Reef Action/wp-content/themes/fsaa_master/parts/footer-content.php&#10;footer.php&#9;FILE&#9;file://D:/Vagrant/html/Four Seasons Reef Action/wp-content/themes/fsaa_master/layout/footer.php&#10;config.php&#9;FILE&#9;file://D:/Vagrant/html/Four Seasons Reef Action/wp-content/themes/fsaa_master/nv/hooks/Config.php&#10;rr_style&#9;FILE&#9;file://D:/Vagrant/html/Four Seasons Reef Action/wp-content/themes/fsaa_master/assets/css/rr_style.css" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -406,10 +517,16 @@
       <BehatRunner />
       <method />
     </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
       <method />
     </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="79b62d45-27fb-485f-b746-3b87ea04f055" server_name="Four Seasons Reef Action @ Client">
       <method />
     </configuration>
     <list size="0" />
@@ -431,27 +548,27 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32964823" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18190955" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.11557789" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18492462" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32964823" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.116145834" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.116145834" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15520833" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.092708334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -472,9 +589,9 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15520833" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -498,11 +615,426 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/fsaa_master/nv/class/page_content.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3196" max-vertical-offset="5134">
+          <caret line="215" column="37" selection-start-line="215" selection-start-column="37" selection-end-line="215" selection-end-column="37" />
+          <folding>
+            <marker date="1431289752867" expanded="true" signature="2788:2938" placeholder="..." />
+            <marker date="1431289752867" expanded="false" signature="3730:3761" placeholder="..." />
+            <marker date="1431289752867" expanded="false" signature="3807:3821" placeholder="..." />
+            <marker date="1431289752867" expanded="true" signature="3865:4585" placeholder="..." />
+            <marker date="1431289752867" expanded="true" signature="3893:4507" placeholder="{...}" />
+            <marker date="1431289752867" expanded="true" signature="3917:3986" placeholder="{&quot;zoom&quot;: 14...}" />
+            <marker date="1431289752867" expanded="true" signature="4192:4241" placeholder="{...}" />
+            <marker date="1431289752867" expanded="true" signature="4296:4387" placeholder="{&quot;content&quot;: '&lt;p style=\'color: black\'&gt;Four Seasons&lt;br /&gt;Resort Seychelles&lt;/p&gt;'...}" />
+            <marker date="1431289752867" expanded="true" signature="4454:4498" placeholder="{...}" />
+            <marker date="1431289752867" expanded="true" signature="6457:6807" placeholder="..." />
+            <marker date="1431289752867" expanded="true" signature="6562:6783" placeholder="..." />
+            <marker date="1431289752867" expanded="true" signature="6689:6774" placeholder="..." />
+            <marker date="1431289752867" expanded="false" signature="6727:6762" placeholder="..." />
+            <marker date="1431289752867" expanded="true" signature="6869:7262" placeholder="..." />
+            <marker date="1431289752867" expanded="true" signature="8067:8247" placeholder="..." />
+            <marker date="1431289752867" expanded="true" signature="8114:8228" placeholder="..." />
+            <marker date="1431289752867" expanded="true" signature="8450:8630" placeholder="..." />
+            <marker date="1431289752867" expanded="true" signature="8450:8632" placeholder="..." />
+            <marker date="1431289752867" expanded="true" signature="8450:8658" placeholder="..." />
+            <marker date="1431289752867" expanded="true" signature="8497:8611" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/fsaa_master/nv/class/page_sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="484" max-vertical-offset="1241">
+          <caret line="60" column="57" selection-start-line="60" selection-start-column="57" selection-end-line="60" selection-end-column="57" />
+          <folding>
+            <marker date="1432073348801" expanded="true" signature="1232:1327" placeholder="..." />
+            <marker date="1432073348801" expanded="true" signature="1473:1568" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/fsaa_master/nv/hooks/Config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2076" max-vertical-offset="4420">
+          <caret line="136" column="66" selection-start-line="136" selection-start-column="66" selection-end-line="136" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/fsaa_master/front-page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="186" max-vertical-offset="1173">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <marker date="1431267709243" expanded="true" signature="975:1012" placeholder="..." />
+            <marker date="1431267709243" expanded="true" signature="1271:1281" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/fsaa_master/parts/footer-content.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="510">
+          <caret line="4" column="86" selection-start-line="4" selection-start-column="86" selection-end-line="4" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/fsaa_master/assets/css/rr_style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="5844" max-vertical-offset="8160">
+          <caret line="362" column="1" selection-start-line="362" selection-start-column="1" selection-end-line="362" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/fsaa_master/_foundation/scss/_custom.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1003" max-vertical-offset="2686">
+          <caret line="87" column="31" selection-start-line="87" selection-start-column="31" selection-end-line="87" selection-end-column="31" />
+          <folding>
+            <element signature="e#430#608#0" expanded="false" />
+            <element signature="e#441#605#0" expanded="false" />
+            <element signature="e#450#600#0" expanded="false" />
+            <element signature="e#626#739#0" expanded="false" />
+            <element signature="e#648#737#0" expanded="false" />
+            <element signature="e#699#732#0" expanded="false" />
+            <element signature="e#757#815#0" expanded="false" />
+            <element signature="e#838#959#0" expanded="false" />
+            <element signature="e#859#956#0" expanded="false" />
+            <element signature="e#881#951#0" expanded="false" />
+            <element signature="e#1055#1204#0" expanded="false" />
+            <element signature="e#1118#1200#0" expanded="false" />
+            <element signature="e#1224#1319#0" expanded="false" />
+            <element signature="e#1276#1314#0" expanded="false" />
+            <element signature="e#1339#1445#0" expanded="false" />
+            <element signature="e#1392#1441#0" expanded="false" />
+            <element signature="e#1463#1502#0" expanded="false" />
+            <element signature="e#1519#1582#0" expanded="false" />
+            <element signature="e#1603#1641#0" expanded="false" />
+            <element signature="e#1756#1794#0" expanded="false" />
+            <element signature="e#1995#2034#0" expanded="false" />
+            <element signature="e#2104#2253#0" expanded="false" />
+            <element signature="e#2167#2249#0" expanded="false" />
+            <element signature="e#2273#2494#0" expanded="false" />
+            <element signature="e#2322#2361#0" expanded="false" />
+            <element signature="e#2382#2459#0" expanded="false" />
+            <element signature="e#2481#2489#0" expanded="false" />
+            <element signature="e#2525#2562#0" expanded="false" />
+            <element signature="e#2587#2678#0" expanded="false" />
+            <element signature="e#2608#2675#0" expanded="false" />
+            <element signature="e#2722#3058#0" expanded="false" />
+            <element signature="e#2740#3055#0" expanded="false" />
+            <element signature="e#2749#2787#0" expanded="false" />
+            <element signature="e#2811#3051#0" expanded="false" />
+            <element signature="e#2910#3045#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/fsaa_master/layout/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1870">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/fsaa_master/_foundation/scss/_settings.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="23732" max-vertical-offset="24650">
+          <caret line="1396" column="24" selection-start-line="1396" selection-start-column="24" selection-end-line="1396" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/fsaa_master/parts/header-content.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="765">
+          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/fsaa_master/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="1479">
+          <caret line="15" column="83" selection-start-line="15" selection-start-column="83" selection-end-line="15" selection-end-column="83" />
+          <folding>
+            <marker date="1431288051456" expanded="false" signature="555:625" placeholder="..." />
+            <marker date="1431288051456" expanded="true" signature="1369:1541" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/fsaa_master/nv/class/page_content.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3196" max-vertical-offset="5134">
+          <caret line="199" column="42" selection-start-line="199" selection-start-column="42" selection-end-line="199" selection-end-column="42" />
+          <folding>
+            <marker date="1431289752867" expanded="true" signature="2788:2938" placeholder="..." />
+            <marker date="1431289752867" expanded="false" signature="3730:3761" placeholder="..." />
+            <marker date="1431289752867" expanded="false" signature="3807:3821" placeholder="..." />
+            <marker date="1431289752867" expanded="true" signature="3865:4585" placeholder="..." />
+            <marker date="1431289752867" expanded="true" signature="3893:4507" placeholder="{...}" />
+            <marker date="1431289752867" expanded="true" signature="3917:3986" placeholder="{&quot;zoom&quot;: 14...}" />
+            <marker date="1431289752867" expanded="true" signature="4192:4241" placeholder="{...}" />
+            <marker date="1431289752867" expanded="true" signature="4296:4387" placeholder="{&quot;content&quot;: '&lt;p style=\'color: black\'&gt;Four Seasons&lt;br /&gt;Resort Seychelles&lt;/p&gt;'...}" />
+            <marker date="1431289752867" expanded="true" signature="4454:4498" placeholder="{...}" />
+            <marker date="1431289752867" expanded="true" signature="6457:6807" placeholder="..." />
+            <marker date="1431289752867" expanded="true" signature="6562:6783" placeholder="..." />
+            <marker date="1431289752867" expanded="true" signature="6689:6774" placeholder="..." />
+            <marker date="1431289752867" expanded="false" signature="6727:6762" placeholder="..." />
+            <marker date="1431289752867" expanded="true" signature="6869:7262" placeholder="..." />
+            <marker date="1431289752867" expanded="true" signature="8067:8247" placeholder="..." />
+            <marker date="1431289752867" expanded="true" signature="8114:8228" placeholder="..." />
+            <marker date="1431289752867" expanded="true" signature="8450:8630" placeholder="..." />
+            <marker date="1431289752867" expanded="true" signature="8450:8632" placeholder="..." />
+            <marker date="1431289752867" expanded="true" signature="8450:8658" placeholder="..." />
+            <marker date="1431289752867" expanded="true" signature="8497:8611" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/fsaa_master/nv/class/page_sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="484" max-vertical-offset="1241">
+          <caret line="60" column="57" selection-start-line="60" selection-start-column="57" selection-end-line="60" selection-end-column="57" />
+          <folding>
+            <marker date="1432073348801" expanded="true" signature="1232:1327" placeholder="..." />
+            <marker date="1432073348801" expanded="true" signature="1473:1568" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/fsaa_master/nv/hooks/Config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2076" max-vertical-offset="4420">
+          <caret line="136" column="66" selection-start-line="136" selection-start-column="66" selection-end-line="136" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/fsaa_master/front-page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="186" max-vertical-offset="1173">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <marker date="1431267709243" expanded="true" signature="975:1012" placeholder="..." />
+            <marker date="1431267709243" expanded="true" signature="1271:1281" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/fsaa_master/parts/footer-content.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="510">
+          <caret line="4" column="86" selection-start-line="4" selection-start-column="86" selection-end-line="4" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/fsaa_master/assets/css/rr_style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="5844" max-vertical-offset="8160">
+          <caret line="362" column="1" selection-start-line="362" selection-start-column="1" selection-end-line="362" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/fsaa_master/_foundation/scss/_custom.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1003" max-vertical-offset="2686">
+          <caret line="87" column="31" selection-start-line="87" selection-start-column="31" selection-end-line="87" selection-end-column="31" />
+          <folding>
+            <element signature="e#430#608#0" expanded="false" />
+            <element signature="e#441#605#0" expanded="false" />
+            <element signature="e#450#600#0" expanded="false" />
+            <element signature="e#626#739#0" expanded="false" />
+            <element signature="e#648#737#0" expanded="false" />
+            <element signature="e#699#732#0" expanded="false" />
+            <element signature="e#757#815#0" expanded="false" />
+            <element signature="e#838#959#0" expanded="false" />
+            <element signature="e#859#956#0" expanded="false" />
+            <element signature="e#881#951#0" expanded="false" />
+            <element signature="e#1055#1204#0" expanded="false" />
+            <element signature="e#1118#1200#0" expanded="false" />
+            <element signature="e#1224#1319#0" expanded="false" />
+            <element signature="e#1276#1314#0" expanded="false" />
+            <element signature="e#1339#1445#0" expanded="false" />
+            <element signature="e#1392#1441#0" expanded="false" />
+            <element signature="e#1463#1502#0" expanded="false" />
+            <element signature="e#1519#1582#0" expanded="false" />
+            <element signature="e#1603#1641#0" expanded="false" />
+            <element signature="e#1756#1794#0" expanded="false" />
+            <element signature="e#1995#2034#0" expanded="false" />
+            <element signature="e#2104#2253#0" expanded="false" />
+            <element signature="e#2167#2249#0" expanded="false" />
+            <element signature="e#2273#2494#0" expanded="false" />
+            <element signature="e#2322#2361#0" expanded="false" />
+            <element signature="e#2382#2459#0" expanded="false" />
+            <element signature="e#2481#2489#0" expanded="false" />
+            <element signature="e#2525#2562#0" expanded="false" />
+            <element signature="e#2587#2678#0" expanded="false" />
+            <element signature="e#2608#2675#0" expanded="false" />
+            <element signature="e#2722#3058#0" expanded="false" />
+            <element signature="e#2740#3055#0" expanded="false" />
+            <element signature="e#2749#2787#0" expanded="false" />
+            <element signature="e#2811#3051#0" expanded="false" />
+            <element signature="e#2910#3045#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/fsaa_master/layout/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1870">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/fsaa_master/_foundation/scss/_settings.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="23732" max-vertical-offset="24650">
+          <caret line="1396" column="24" selection-start-line="1396" selection-start-column="24" selection-end-line="1396" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/fsaa_master/parts/header-content.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="765">
+          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/fsaa_master/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="1462">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+          <folding>
+            <marker date="1431288051456" expanded="false" signature="555:625" placeholder="..." />
+            <marker date="1431288051456" expanded="true" signature="1369:1541" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/fsaa_master/nv/class/page_content.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3866" max-vertical-offset="4794">
+          <caret line="267" column="73" selection-start-line="267" selection-start-column="73" selection-end-line="267" selection-end-column="73" />
+          <folding>
+            <marker date="1431289752867" expanded="true" signature="2788:2938" placeholder="..." />
+            <marker date="1431289752867" expanded="false" signature="3730:3761" placeholder="..." />
+            <marker date="1431289752867" expanded="false" signature="3807:3821" placeholder="..." />
+            <marker date="1431289752867" expanded="true" signature="3865:4585" placeholder="..." />
+            <marker date="1431289752867" expanded="true" signature="3893:4507" placeholder="{...}" />
+            <marker date="1431289752867" expanded="true" signature="3917:3986" placeholder="{&quot;zoom&quot;: 14...}" />
+            <marker date="1431289752867" expanded="true" signature="4192:4241" placeholder="{...}" />
+            <marker date="1431289752867" expanded="true" signature="4296:4387" placeholder="{&quot;content&quot;: '&lt;p style=\'color: black\'&gt;Four Seasons&lt;br /&gt;Resort Seychelles&lt;/p&gt;'...}" />
+            <marker date="1431289752867" expanded="true" signature="4454:4498" placeholder="{...}" />
+            <marker date="1431289752867" expanded="true" signature="6457:6807" placeholder="..." />
+            <marker date="1431289752867" expanded="true" signature="6562:6783" placeholder="..." />
+            <marker date="1431289752867" expanded="true" signature="6689:6774" placeholder="..." />
+            <marker date="1431289752867" expanded="false" signature="6727:6762" placeholder="..." />
+            <marker date="1431289752867" expanded="true" signature="6869:7262" placeholder="..." />
+            <marker date="1431289752867" expanded="true" signature="8067:8247" placeholder="..." />
+            <marker date="1431289752867" expanded="true" signature="8114:8228" placeholder="..." />
+            <marker date="1431289752867" expanded="true" signature="8450:8630" placeholder="..." />
+            <marker date="1431289752867" expanded="true" signature="8450:8632" placeholder="..." />
+            <marker date="1431289752867" expanded="true" signature="8450:8658" placeholder="..." />
+            <marker date="1431289752867" expanded="true" signature="8497:8611" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/fsaa_master/nv/class/page_sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="458" max-vertical-offset="1071">
+          <caret line="50" column="53" selection-start-line="50" selection-start-column="53" selection-end-line="50" selection-end-column="53" />
+          <folding>
+            <marker date="1432073348801" expanded="true" signature="1232:1327" placeholder="..." />
+            <marker date="1432073348801" expanded="true" signature="1473:1568" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/fsaa_master/nv/hooks/Config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1328" max-vertical-offset="4420">
+          <caret line="89" column="0" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/fsaa_master/assets/css/rr_style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="7534" max-vertical-offset="8160">
+          <caret line="474" column="1" selection-start-line="474" selection-start-column="1" selection-end-line="474" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/fsaa_master/_foundation/scss/_custom.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1190">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#430#608#0" expanded="false" />
+            <element signature="e#441#605#0" expanded="false" />
+            <element signature="e#450#600#0" expanded="false" />
+            <element signature="e#626#739#0" expanded="false" />
+            <element signature="e#648#737#0" expanded="false" />
+            <element signature="e#699#732#0" expanded="false" />
+            <element signature="e#757#815#0" expanded="false" />
+            <element signature="e#838#959#0" expanded="false" />
+            <element signature="e#859#956#0" expanded="false" />
+            <element signature="e#881#951#0" expanded="false" />
+            <element signature="e#1055#1204#0" expanded="false" />
+            <element signature="e#1118#1200#0" expanded="false" />
+            <element signature="e#1224#1319#0" expanded="false" />
+            <element signature="e#1276#1314#0" expanded="false" />
+            <element signature="e#1339#1445#0" expanded="false" />
+            <element signature="e#1392#1441#0" expanded="false" />
+            <element signature="e#1463#1502#0" expanded="false" />
+            <element signature="e#1519#1582#0" expanded="false" />
+            <element signature="e#1603#1641#0" expanded="false" />
+            <element signature="e#1756#1794#0" expanded="false" />
+            <element signature="e#1995#2034#0" expanded="false" />
+            <element signature="e#2104#2253#0" expanded="false" />
+            <element signature="e#2167#2249#0" expanded="false" />
+            <element signature="e#2273#2494#0" expanded="false" />
+            <element signature="e#2322#2361#0" expanded="false" />
+            <element signature="e#2382#2459#0" expanded="false" />
+            <element signature="e#2481#2489#0" expanded="false" />
+            <element signature="e#2525#2562#0" expanded="false" />
+            <element signature="e#2587#2678#0" expanded="false" />
+            <element signature="e#2608#2675#0" expanded="false" />
+            <element signature="e#2722#3058#0" expanded="false" />
+            <element signature="e#2740#3055#0" expanded="false" />
+            <element signature="e#2749#2787#0" expanded="false" />
+            <element signature="e#2811#3051#0" expanded="false" />
+            <element signature="e#2910#3045#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/fsaa_master/_foundation/scss/_settings.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="23732" max-vertical-offset="24650">
+          <caret line="1396" column="24" selection-start-line="1396" selection-start-column="24" selection-end-line="1396" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/fsaa_master/_foundation/bower_components/foundation/scss/foundation/_settings.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.48166665" vertical-offset="663" max-vertical-offset="24599">
           <caret line="56" column="65" selection-start-line="56" selection-start-column="65" selection-end-line="57" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -510,7 +1042,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.24959217" vertical-offset="0" max-vertical-offset="613">
           <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -518,7 +1049,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.38019168" vertical-offset="0" max-vertical-offset="629">
           <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -526,7 +1056,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.78061223" vertical-offset="255" max-vertical-offset="867">
           <caret line="42" column="36" selection-start-line="42" selection-start-column="36" selection-end-line="42" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -534,7 +1063,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="11594">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -542,7 +1070,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.1629393" vertical-offset="24565" max-vertical-offset="39848">
           <caret line="1451" column="22" selection-start-line="1451" selection-start-column="22" selection-end-line="1451" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -550,7 +1077,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.37245697" vertical-offset="0" max-vertical-offset="680">
           <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -574,9 +1100,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.32540542" vertical-offset="111100" max-vertical-offset="128554">
           <caret line="6553" column="21" selection-start-line="6553" selection-start-column="21" selection-end-line="6553" selection-end-column="21" />
-          <folding>
-            <element signature="e#149777#150100#2" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -584,21 +1107,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.55676854" vertical-offset="0" max-vertical-offset="1156">
           <caret line="30" column="68" selection-start-line="30" selection-start-column="68" selection-end-line="30" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/fsaa_master/parts/header-content.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="765">
+          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/fsaa_master/assets/css/rr_style.css">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/fsaa_master/assets/js/app.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="7534" max-vertical-offset="8160">
-          <caret line="474" column="1" selection-start-line="474" selection-start-column="1" selection-end-line="474" selection-end-column="1" />
-          <folding />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="770">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/fsaa_master/_foundation/scss/_settings.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.307693" vertical-offset="23438" max-vertical-offset="24650">
+        <state vertical-scroll-proportion="0.0" vertical-offset="23732" max-vertical-offset="24650">
           <caret line="1396" column="24" selection-start-line="1396" selection-start-column="24" selection-end-line="1396" selection-end-column="24" />
           <folding />
         </state>
@@ -606,76 +1135,139 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/fsaa_master/front-page.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3898858" vertical-offset="237" max-vertical-offset="1156">
-          <caret line="28" column="47" selection-start-line="28" selection-start-column="47" selection-end-line="28" selection-end-column="47" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="186" max-vertical-offset="1173">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <marker date="1431267709243" expanded="true" signature="975:1012" placeholder="..." />
+            <marker date="1431267709243" expanded="true" signature="1271:1281" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/fsaa_master/assets/css/rr_style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="5844" max-vertical-offset="8160">
+          <caret line="362" column="1" selection-start-line="362" selection-start-column="1" selection-end-line="362" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/fsaa_master/parts/footer-content.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="510">
+          <caret line="4" column="86" selection-start-line="4" selection-start-column="86" selection-end-line="4" selection-end-column="86" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/fsaa_master/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="1462">
-          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/fsaa_master/parts/header-content.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.5" vertical-offset="17" max-vertical-offset="765">
-          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/fsaa_master/nv/class/page_sidebar.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.076923" vertical-offset="458" max-vertical-offset="1071">
-          <caret line="50" column="53" selection-start-line="50" selection-start-column="53" selection-end-line="50" selection-end-column="53" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="1479">
+          <caret line="15" column="83" selection-start-line="15" selection-start-column="83" selection-end-line="15" selection-end-column="83" />
           <folding>
-            <marker date="1430968153796" expanded="true" signature="1193:1288" placeholder="..." />
+            <marker date="1431288051456" expanded="false" signature="555:625" placeholder="..." />
+            <marker date="1431288051456" expanded="true" signature="1369:1541" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/fsaa_master/nv/hooks/Config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2076" max-vertical-offset="4420">
+          <caret line="136" column="66" selection-start-line="136" selection-start-column="66" selection-end-line="136" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/fsaa_master/layout/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-22.884615" vertical-offset="153" max-vertical-offset="1972">
+          <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/fsaa_master/nv/class/page_content.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-25.884615" vertical-offset="3866" max-vertical-offset="4794">
-          <caret line="267" column="73" selection-start-line="267" selection-start-column="73" selection-end-line="267" selection-end-column="73" />
+        <state vertical-scroll-proportion="-4.327273" vertical-offset="2737" max-vertical-offset="5134">
+          <caret line="175" column="82" selection-start-line="175" selection-start-column="65" selection-end-line="175" selection-end-column="82" />
           <folding>
-            <marker date="1430968245669" expanded="true" signature="2718:2868" placeholder="..." />
-            <marker date="1430968245669" expanded="false" signature="3660:3691" placeholder="..." />
-            <marker date="1430968245669" expanded="false" signature="3737:3751" placeholder="..." />
-            <marker date="1430968245669" expanded="true" signature="3795:4515" placeholder="..." />
-            <marker date="1430968245669" expanded="true" signature="3823:4437" placeholder="{...}" />
-            <marker date="1430968245669" expanded="true" signature="3847:3916" placeholder="{&quot;zoom&quot;: 14...}" />
-            <marker date="1430968245669" expanded="true" signature="4122:4171" placeholder="{...}" />
-            <marker date="1430968245669" expanded="true" signature="4226:4317" placeholder="{&quot;content&quot;: '&lt;p style=\'color: black\'&gt;Four Seasons&lt;br /&gt;Resort Seychelles&lt;/p&gt;'...}" />
-            <marker date="1430968245669" expanded="true" signature="4384:4428" placeholder="{...}" />
-            <marker date="1430968245669" expanded="true" signature="6302:6627" placeholder="..." />
-            <marker date="1430968245669" expanded="true" signature="6382:6603" placeholder="..." />
-            <marker date="1430968245669" expanded="true" signature="6509:6594" placeholder="..." />
-            <marker date="1430968245669" expanded="false" signature="6547:6582" placeholder="..." />
-            <marker date="1430968245669" expanded="true" signature="6689:7082" placeholder="..." />
-            <marker date="1430968245669" expanded="true" signature="7887:8067" placeholder="..." />
-            <marker date="1430968245669" expanded="true" signature="7934:8048" placeholder="..." />
+            <marker date="1431289752867" expanded="true" signature="2788:2938" placeholder="..." />
+            <marker date="1431289752867" expanded="false" signature="3730:3761" placeholder="..." />
+            <marker date="1431289752867" expanded="false" signature="3807:3821" placeholder="..." />
+            <marker date="1431289752867" expanded="true" signature="3865:4585" placeholder="..." />
+            <marker date="1431289752867" expanded="true" signature="3893:4507" placeholder="{...}" />
+            <marker date="1431289752867" expanded="true" signature="3917:3986" placeholder="{&quot;zoom&quot;: 14...}" />
+            <marker date="1431289752867" expanded="true" signature="4192:4241" placeholder="{...}" />
+            <marker date="1431289752867" expanded="true" signature="4296:4387" placeholder="{&quot;content&quot;: '&lt;p style=\'color: black\'&gt;Four Seasons&lt;br /&gt;Resort Seychelles&lt;/p&gt;'...}" />
+            <marker date="1431289752867" expanded="true" signature="4454:4498" placeholder="{...}" />
+            <marker date="1431289752867" expanded="true" signature="6457:6807" placeholder="..." />
+            <marker date="1431289752867" expanded="true" signature="6562:6783" placeholder="..." />
+            <marker date="1431289752867" expanded="true" signature="6689:6774" placeholder="..." />
+            <marker date="1431289752867" expanded="false" signature="6727:6762" placeholder="..." />
+            <marker date="1431289752867" expanded="true" signature="6869:7262" placeholder="..." />
+            <marker date="1431289752867" expanded="true" signature="8067:8247" placeholder="..." />
+            <marker date="1431289752867" expanded="true" signature="8114:8228" placeholder="..." />
+            <marker date="1431289752867" expanded="true" signature="8450:8630" placeholder="..." />
+            <marker date="1431289752867" expanded="true" signature="8450:8632" placeholder="..." />
+            <marker date="1431289752867" expanded="true" signature="8450:8658" placeholder="..." />
+            <marker date="1431289752867" expanded="true" signature="8497:8611" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/fsaa_master/_foundation/scss/_custom.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8634538" vertical-offset="443" max-vertical-offset="1190">
-          <caret line="64" column="0" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.4704301" vertical-offset="500" max-vertical-offset="1428">
+          <caret line="119" column="26" selection-start-line="119" selection-start-column="26" selection-end-line="119" selection-end-column="26" />
+          <folding>
+            <element signature="e#430#608#0" expanded="false" />
+            <element signature="e#441#605#0" expanded="false" />
+            <element signature="e#450#600#0" expanded="false" />
+            <element signature="e#626#739#0" expanded="false" />
+            <element signature="e#648#737#0" expanded="false" />
+            <element signature="e#699#732#0" expanded="false" />
+            <element signature="e#757#815#0" expanded="false" />
+            <element signature="e#838#959#0" expanded="false" />
+            <element signature="e#859#956#0" expanded="false" />
+            <element signature="e#881#951#0" expanded="false" />
+            <element signature="e#1055#1204#0" expanded="false" />
+            <element signature="e#1118#1200#0" expanded="false" />
+            <element signature="e#1224#1319#0" expanded="false" />
+            <element signature="e#1276#1314#0" expanded="false" />
+            <element signature="e#1339#1445#0" expanded="false" />
+            <element signature="e#1392#1441#0" expanded="false" />
+            <element signature="e#1463#1502#0" expanded="false" />
+            <element signature="e#1519#1582#0" expanded="false" />
+            <element signature="e#1603#1641#0" expanded="false" />
+            <element signature="e#1756#1794#0" expanded="false" />
+            <element signature="e#1995#2034#0" expanded="false" />
+            <element signature="e#2104#2253#0" expanded="false" />
+            <element signature="e#2167#2249#0" expanded="false" />
+            <element signature="e#2273#2494#0" expanded="false" />
+            <element signature="e#2322#2361#0" expanded="false" />
+            <element signature="e#2382#2459#0" expanded="false" />
+            <element signature="e#2481#2489#0" expanded="false" />
+            <element signature="e#2525#2562#0" expanded="false" />
+            <element signature="e#2587#2678#0" expanded="false" />
+            <element signature="e#2608#2675#0" expanded="false" />
+            <element signature="e#2722#3058#0" expanded="false" />
+            <element signature="e#2740#3055#0" expanded="false" />
+            <element signature="e#2749#2787#0" expanded="false" />
+            <element signature="e#2811#3051#0" expanded="false" />
+            <element signature="e#2910#3045#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/fsaa_master/nv/hooks/Config.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/fsaa_master/nv/class/page_sidebar.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2476573" vertical-offset="1328" max-vertical-offset="4420">
-          <caret line="89" column="0" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.40422723" vertical-offset="119" max-vertical-offset="1241">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <marker date="1432073348801" expanded="true" signature="1232:1327" placeholder="..." />
+            <marker date="1432073348801" expanded="true" signature="1473:1568" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>

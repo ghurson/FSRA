@@ -133,7 +133,7 @@ class Config {
 		//wp_enqueue_script( 'zf-alert', NV_ZF_JS.'/foundation/foundation.alert.js', array( 'foundation' ), false, true );
 		//wp_enqueue_script( 'zf-clearing', NV_ZF_JS.'/foundation/foundation.clearing.js', array( 'foundation' ), false, true );
 		//wp_enqueue_script( 'zf-dropdown', NV_ZF_JS.'/foundation/foundation.dropdown.js', array( 'foundation' ), false, true );
-		//wp_enqueue_script( 'zf-equalizer', NV_ZF_JS.'/foundation/foundation.equalizer.js', array( 'foundation' ), false, true );
+		wp_enqueue_script( 'zf-equalizer', NV_ZF_JS.'/foundation/foundation.equalizer.js', array( 'foundation' ), false, true );
 		//wp_enqueue_script( 'zf-interchange', NV_ZF_JS.'/foundation/foundation.equalizer.js', array( 'foundation' ), false, true );
 		//wp_enqueue_script( 'zf-joyride', NV_ZF_JS.'/foundation/foundation.joyride.js', array( 'foundation' ), false, true );
 		//wp_enqueue_script( 'zf-magellan', NV_ZF_JS.'/foundation/foundation.magellan.js', array( 'foundation' ), false, true );

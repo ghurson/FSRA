@@ -2,14 +2,14 @@
 
 <footer>
 	<div class="row collapse">
-		<div id='footer_text' class="small-7 columns">
+		<div id='footer_text' class="large-7 columns small-text-center large-text-left">
 			<h6>&copy; <?php print date("Y"); ?> A WiseOceans project at Four Seasons Resort Seychelles</h6>
             <?php wp_nav_menu(array(
                 'depth' => 1,
                 'theme_location' => 'primary'
             )); ?>
 		</div>
-		<div id='footer_logos' class="small-5 columns">
+		<div id='footer_logos' class="large-5 columns small-text-center large-text-right">
 			<?php
 			$logos = get_field("footer_logos","options");
 			foreach($logos as $logo):

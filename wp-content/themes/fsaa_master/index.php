@@ -13,7 +13,8 @@ get_template_part('parts/header', 'content');
 
         <?php
         $page_obj = new page_content(get_the_ID());
-        $page_obj->print_html();
+        print $page_obj->is_gallery ? $page_obj->print_gallery() : $page_obj->print_html();
+
         ?>
 
     </div>

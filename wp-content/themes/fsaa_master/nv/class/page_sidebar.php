@@ -17,7 +17,7 @@ class page_sidebar
     public function load_gallery_sidebar()
     {
         $title = "<h2>{$this->post->post_title}</h2>";
-        $this->html .= "$title <ul class='small-block-grid-1' id='gallery_pager'></ul>";
+        $this->html .= "$title <ul class='small-block-grid-4 medium-block-grid-3 large-block-grid-1' id='gallery_pager'></ul>";
     }
 
     public function load_archive($type)
@@ -49,6 +49,16 @@ class page_sidebar
     {
         return "
             <div id='sidebar' class='medium-4 large-3 columns'>
+                <div class='blue_stripe'></div>
+                $this->html
+            </div>
+        ";
+    }
+
+    public function return_gallery()
+    {
+        return "
+            <div id='sidebar' class='large-3 large-pull-9 columns'>
                 <div class='blue_stripe'></div>
                 $this->html
             </div>

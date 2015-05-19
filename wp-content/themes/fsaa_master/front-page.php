@@ -26,11 +26,12 @@ get_template_part('parts/header', 'content');
 
 		foreach ($slides as $slide):
 			$caption = $slide['caption'];
-			$caption_html = "<div class='medium-3 columns'><h3>$caption</h3></div>";
+			$caption_html = "<div class='medium-3 columns slideshow_text' ><h3>$caption</h3></div>";
 
 			$image_id = $slide['image'];
 			$image = wp_get_attachment_image( $image_id, 'Home Slideshow' );
-			$image_html = "<div class='medium-9 columns'>$image</div>";
+			$image_src = wp_get_attachment_image_src( $image_id, 'Home Slideshow' );
+			$image_html = "<div class='medium-9 columns slideshow_img' style='background-image:url({$image_src[0]})'></div>";
 
 			print "<div class='home_slide small-12 columns'>$caption_html $image_html</div>";
 

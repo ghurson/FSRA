@@ -9,6 +9,7 @@ class page_content
     public $content_blue_stripe;
     public $ancestory;
     public $page_id;
+    public $is_gallery = false;
 
 
     public function __construct($id = false)
@@ -24,6 +25,7 @@ class page_content
             $this->build_content_blue_stripe();
             $this->load_gallery();
             $this->sidebar->load_gallery_sidebar();
+            $this->is_gallery = true;
         else:
             $this->switchboard($id);
         endif;
@@ -171,7 +173,7 @@ class page_content
             'post_type' => 'page'
         ));
 
-        $this->content_html .= "<ul id='gallery_selector' class='small-block-grid-4'>";
+        $this->content_html .= "<ul id='gallery_selector' class='small-block-grid-1 medium-block-grid-3 large-block-grid-6'>";
 
         if ($gallery_query->posts):
             foreach ($gallery_query->posts as $post):
@@ -195,6 +197,8 @@ class page_content
             $_image = wp_get_attachment_image_src($pic['ID'], 'Gallery Main');
             $_thumbnail = wp_get_attachment_image_src($pic['ID'], 'Gallery Thumbnail');
             $_full = wp_get_attachment_image_src($pic['ID'], 'large');
+            $_ratio = $_full[2] / $_full[1];
+
             $_post = get_post($pic['ID']);
             $_title = "<h3>$_post->post_title</h3>";
             $_caption = apply_filters("the_content", $_post->post_excerpt);
@@ -202,6 +206,7 @@ class page_content
 			<div
 				class='slide'
 				data-thumbnail='{$_thumbnail[0]}'
+				data-ratio='$_ratio'
 			>
 				$_title
 				<a
@@ -271,6 +276,21 @@ class page_content
                     $this->content_html
                 </article>
             </div>
+        ";
+    }
+
+    public function print_gallery()
+    {
+        $sidebar_html = $this->sidebar->return_gallery();
+
+        print "
+            <div id='content' class='columns large-9 large-push-3'>
+                <article class='post_excerpt'>
+                    $this->content_blue_stripe
+                    $this->content_html
+                </article>
+            </div>
+            $sidebar_html
         ";
     }
 
